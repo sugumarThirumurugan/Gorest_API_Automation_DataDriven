@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T12:39:54 IST" name="Suite" finished-at="2024-03-18T12:40:09 IST" duration-ms="15218">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T12:39:54 IST" name="Test" finished-at="2024-03-18T12:40:09 IST" duration-ms="15218">
+      <class name="api.tests.GorestTests">
+        <test-method signature="createUser([Ljava.lang.String;)[pri:1, instance:api.tests.GorestTests@3cebbb30]" started-at="2024-03-18T12:39:58 IST" name="createUser" data-provider="ExcelData" finished-at="2024-03-18T12:40:04 IST" duration-ms="6265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@72fe8a4f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser([Ljava.lang.String;)[pri:1, instance:api.tests.GorestTests@3cebbb30]" started-at="2024-03-18T12:40:04 IST" name="createUser" data-provider="ExcelData" finished-at="2024-03-18T12:40:05 IST" duration-ms="844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@186481d4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser([Ljava.lang.String;)[pri:1, instance:api.tests.GorestTests@3cebbb30]" started-at="2024-03-18T12:40:05 IST" name="createUser" data-provider="ExcelData" finished-at="2024-03-18T12:40:06 IST" duration-ms="500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7d8f2eec]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="createUser([Ljava.lang.String;)[pri:1, instance:api.tests.GorestTests@3cebbb30]" started-at="2024-03-18T12:40:06 IST" name="createUser" data-provider="ExcelData" finished-at="2024-03-18T12:40:06 IST" duration-ms="656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@579f3c8e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="deleteUser()[pri:2, instance:api.tests.GorestTests@3cebbb30]" started-at="2024-03-18T12:40:06 IST" name="deleteUser" finished-at="2024-03-18T12:40:09 IST" duration-ms="2891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- api.tests.GorestTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
